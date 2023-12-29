@@ -1,0 +1,1 @@
+This is my python file when i started to code in python and all my codes are in this file. Most of them are labelled by name and if you want to find a certain code, just press ctrl + F and type the general name of the code and it will come up if it exists.
